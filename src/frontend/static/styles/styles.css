@@ -17,11 +17,12 @@
 /* General */
 
 html, body {
-  background-color: red;
+  background: red;
   height: 100%;
 }
 
 body {
+  background: red;
   color: #111111;
   font-family: 'DM Sans', sans-serif;
   display: flex;
